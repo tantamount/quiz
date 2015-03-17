@@ -1,0 +1,17 @@
+2015-03-15 10:55:36,478 - WARNING: Room Created: id= 1866456772
+2015-03-15 11:05:09,653 - WARNING: Room Created: id= 1854755409
+2015-03-15 11:05:09,707 - ERROR: Error in getLockProperties java.lang.NullPointerException
+2015-03-15 11:06:00,317 - WARNING: Room Created: id= 2002673919
+2015-03-15 11:06:00,338 - ERROR: Error in getLockProperties java.lang.NullPointerException
+2015-03-15 11:09:14,726 - WARNING: Room Created: id= 1966138242
+2015-03-15 11:09:14,763 - ERROR: Error in getLockProperties java.lang.NullPointerException
+2015-03-15 11:09:21,525 - WARNING: exceptionCaught cause An existing connection was forcibly closed by the remote host remote /192.168.254.2:58945
+2015-03-15 11:18:46,667 - WARNING: Room Created: id= 2074329445
+2015-03-15 11:18:46,731 - ERROR: Error in getLockProperties java.lang.NullPointerException
+2015-03-15 11:18:51,640 - ERROR: Error in getLockProperties java.lang.NullPointerException
+2015-03-15 11:20:43,566 - WARNING: Room Created: id= 147021119
+2015-03-15 11:20:43,576 - ERROR: Error in getLockProperties java.lang.NullPointerException
+2015-03-15 11:20:49,859 - ERROR: Error in getLockProperties java.lang.NullPointerException
+2015-03-15 11:21:00,041 - WARNING: Room Created: id= 245972329
+2015-03-15 11:21:00,050 - ERROR: Error in getLockProperties java.lang.NullPointerException
+2015-03-15 11:21:04,915 - ERROR: Error in getLockProperties java.lang.NullPointerException

@@ -1,0 +1,173 @@
+{
+    "Questions": [
+        {
+            "id": 1,
+            "Question": {
+                "Question": "What was the third single off Michael Jackson's Thriller album?",
+                "AttachedElement": {
+                    "Type": 1,
+                    "Value": ""
+                }
+            },
+            "Options": [
+                {
+                    "Type": 1,
+                    "Value": "Billie Jean"
+                },
+                {
+                    "Type": 1,
+                    "Value": "The Girl is Mine"
+                },
+                {
+                    "Type": 1,
+                    "Value": "Beat It"
+                },
+                {
+                    "Type": 1,
+                    "Value": "Human Nature"
+                }
+            ]
+       },
+        {
+            "id": 2,
+            "Question": {
+                "Question": "What year did the Police release the album Synchronicity?",
+                "AttachedElement": {
+                    "Type": 1,
+                    "Value": ""
+                }
+            },
+            "Options": [
+                {
+                    "Type": 1,
+                    "Value": "1983"
+                },
+                {
+                    "Type": 1,
+                    "Value": "1984"
+                },
+                {
+                    "Type": 1,
+                    "Value": "1985"
+                },
+                {
+                    "Type": 1,
+                    "Value": "1986"
+                }
+            ]
+
+        },
+        {
+            "id": 3,
+            "Question": {
+                "Question": "What year was Live Aid?",
+                "AttachedElement": {
+                    "Type": 1,
+                    "Value": ""
+                }
+            },
+            "Options": [
+                {
+                    "Type": 1,
+                    "Value": "1984"
+                },
+                {
+                    "Type": 1,
+                    "Value": "1985"
+                },
+                {
+                    "Type": 1,
+                    "Value": "1986"
+                },
+                {
+                    "Type": 1,
+                    "Value": "1987"
+                }
+            ]
+
+        },
+        {
+            "id": 4,
+            "Question": {
+                "Question": "By what name are pop duo Neil Tennant and Chris Lowe better known?",
+                "AttachedElement": {
+                    "Type": 1,
+                    "Value": ""
+                }
+            },
+            "Options": [
+                {
+                    "Type": 1,
+                    "Value": "Boys to Men"
+                },
+                {
+                    "Type": 1,
+                    "Value": "The Thompson Twins"
+                },
+                {
+                    "Type": 1,
+                    "Value": "Men Without Hats"
+                },
+                {
+                    "Type": 1,
+                    "Value": "The Pet Shop Boys"
+                }
+            ]
+
+        },
+        {
+            "id": 5,
+            "Question": {
+                "Question": "Born in the USA was a hit for which artist?",
+                "AttachedElement": {
+                    "Type": 1,
+                    "Value": ""
+                }
+            },
+            "Options": [
+                {
+                    "Type": 1,
+                    "Value": "Bryan Adams"
+                },
+                {
+                    "Type": 1,
+                    "Value": "Bruce Springsteen"
+                },
+                {
+                    "Type": 1,
+                    "Value": "David Bowie"
+                },
+                {
+                    "Type": 1,
+                    "Value": "Elton John"
+                }
+            ]
+
+        }
+
+
+
+    ],
+    "Answers": [
+        {
+            "QuestionId": 1,
+            "Answer": 3
+        },
+      {
+            "QuestionId": 2,
+            "Answer": 1
+        },
+      {
+            "QuestionId": 3,
+            "Answer": 2
+        },
+      {
+            "QuestionId": 4,
+            "Answer": 4
+        },
+      {
+            "QuestionId": 5,
+            "Answer": 2
+        }
+    ]
+}

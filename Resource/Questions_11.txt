@@ -1,0 +1,38 @@
+{
+    "Questions": [
+        {
+            "id": 1,
+            "Question": {
+                "Question": "What is the title of this album?",
+                "AttachedElement": {
+                    "Type": 2,
+                    "Value": "/QuizMania;component/Images/donk.jpg"
+                }
+            },
+            "Options": [
+                {
+                    "Type": 2,
+                    "Value": "Pet Sounds"
+                },
+                {
+                    "Type": 1,
+                    "Value": "Brian Lara"
+                },
+                {
+                    "Type": 1,
+                    "Value": "Don Bradman"
+                },
+                {
+                    "Type": 1,
+                    "Value": "Sachin Tendulkar"
+                }
+            ]
+        }
+    ],
+    "Answers": [
+        {
+            "QuestionId": 1,
+            "Answer": 2
+        }
+    ]
+}
